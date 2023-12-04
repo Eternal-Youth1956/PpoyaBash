@@ -32,6 +32,10 @@
 		{
 			"Name": "MultiUserTakes",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
